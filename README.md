@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**Ronik-Shah/Ronik-Shah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a android developer.
 
-Here are some ideas to get you started:
+## My Android Projects
+  **Quiz App**        : https://github.com/Ronik-Shah/QuizApp<br>
+  **Weather Station** : https://github.com/Ronik-Shah/Weather-Station<br>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Flutter Projects
+  **Chat App**        : https://github.com/Ronik-Shah/Chat-App<br>
+  **Shop App**        : https://github.com/Ronik-Shah/shop_app<br>
+  **Meals App**       : https://github.com/Ronik-Shah/MealsApp<br>
+  **Expenses App**    : https://github.com/Ronik-Shah/Expenses-App<br>
